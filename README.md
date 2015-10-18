@@ -1,7 +1,7 @@
 # titanic-predictor
 A submission for the data science prediction challenge by Kaggle
 
-# Installation
+## Installation
 * TODO
 
 ## Built With ##
